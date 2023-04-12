@@ -1,0 +1,104 @@
+[
+  {
+    "sousId": 999,
+    "tokenName": "FOXLAYER",
+    "stakingToken": {
+      "symbol": "FOXLAYER",
+      "address": {
+        "1": "0x92df60c51c710a1b1c20e42d85e221f3a1bfc7f2",
+        "40": "0x667fd83e24ca1d935d36717d305d54fa0cac991c",
+        "56": "0x84a5A0CaB56def6aDAf8Cd591630fEE8FEC6a2f5",
+        "97": "0x4Fb99590cA95fc3255D9fA66a1cA46c43C34b09a",
+        "137": "0x5d47baba0d66083c52009271faf3f50dcc01023c"
+      },
+      "decimals": {
+        "1": 18,
+        "40": 18,
+        "56": 18,
+        "97": 18,
+        "137": 18
+      },
+      "active": true
+    },
+    "rewardToken": {
+      "symbol": "FOXLAYER",
+      "address": {
+        "1": "0x92df60c51c710a1b1c20e42d85e221f3a1bfc7f2",
+        "40": "0x667fd83e24ca1d935d36717d305d54fa0cac991c",
+        "56": "0x84a5A0CaB56def6aDAf8Cd591630fEE8FEC6a2f5",
+        "97": "0x4Fb99590cA95fc3255D9fA66a1cA46c43C34b09a",
+        "137": "0x5d47baba0d66083c52009271faf3f50dcc01023c"
+      },
+      "decimals": {
+        "1": 18,
+        "40": 18,
+        "56": 18,
+        "97": 18,
+        "137": 18
+      },
+      "active": true
+    },
+    "contractAddress": {
+      "56": "0x19d1F73a59dcE256d1083C3103DD2415678BdCa8",
+      "97": "0xbbC5e1cD3BA8ED639b00927115e5f0e0040aA613"
+    },
+    "poolCategory": "Core",
+    "projectLink": "https://foxchain.app/",
+    "twitter": "https://twitter.com/FoxchainLabs",
+    "audit": "https://blocksafu.com/project-detail/0xa0d46332C75397b6f840Bd8bB7cB06bD3ff482E1",
+    "harvest": true,
+    "tokenPerBlock": "2.5",
+    "sortOrder": 1,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 21,
+    "tokenName": "FOXC",
+    "image": "FOX.svg",
+    "stakingToken": {
+      "symbol": "FOXC",
+      "address": {
+        "56": "0xa0d46332c75397b6f840bd8bb7cb06bd3ff482e1",
+        "97": "0xf693bDA9D3C56D5F9165c8633d9098e3C4Ae495A"
+      },
+      "decimals": {
+        "56": 18,
+        "97": 18
+      },
+      "active": true
+    },
+    "rewardToken": {
+      "symbol": "FOXC",
+      "address": {
+        "1": "0x92df60c51c710a1b1c20e42d85e221f3a1bfc7f2",
+        "40": "0x667fd83e24ca1d935d36717d305d54fa0cac991c",
+        "56": "0xa0d46332c75397b6f840bd8bb7cb06bd3ff482e1",
+        "97": "0x4Fb99590cA95fc3255D9fA66a1cA46c43C34b09a",
+        "137": "0x5d47baba0d66083c52009271faf3f50dcc01023c"
+      },
+      "decimals": {
+        "1": 18,
+        "40": 18,
+        "56": 18,
+        "97": 18,
+        "137": 18
+      },
+      "active": true
+    },
+    "contractAddress": {
+      "56": "0xE1c55e983E764E3f2D29B301f4F929ABa6c6aBCB",
+      "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7"
+    },
+    "poolCategory": "ApeZone",
+    "projectLink": "https://foxchain.app/foxzone",
+    "twitter": "https://twitter.com/FoxchainLabs",
+    "audit": "https://blocksafu.com/project-detail/0xa0d46332C75397b6f840Bd8bB7cB06bD3ff482E1",
+    "harvest": true,
+    "tokenPerBlock": "0.150000000000000000",
+    "sortOrder": 1,
+    "isFinished": false,
+    "tokenDecimals": 18
+  }
+ 
+]
